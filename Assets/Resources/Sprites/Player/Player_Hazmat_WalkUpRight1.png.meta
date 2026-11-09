@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 88048d20e0820dc4d9501925aa693b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1577732616748181704
+    second: Player_Hazmat_WalkUpRight1_0
+  - first:
+      213: -8431713891348217189
+    second: Player_Hazmat_WalkUpRight1_1
+  - first:
+      213: 2581133778612691028
+    second: Player_Hazmat_WalkUpRight1_2
+  - first:
+      213: -3673844545135078744
+    second: Player_Hazmat_WalkUpRight1_3
+  - first:
+      213: 8938924195630685307
+    second: Player_Hazmat_WalkUpRight1_4
+  - first:
+      213: -3902719543912591965
+    second: Player_Hazmat_WalkUpRight1_5
+  - first:
+      213: -4215879068439776546
+    second: Player_Hazmat_WalkUpRight1_6
+  - first:
+      213: 4391483798062059376
+    second: Player_Hazmat_WalkUpRight1_7
+  - first:
+      213: 403194231633385146
+    second: Player_Hazmat_WalkUpRight1_8
+  - first:
+      213: 3749761309407352075
+    second: Player_Hazmat_WalkUpRight1_9
+  - first:
+      213: 8668648517384540395
+    second: Player_Hazmat_WalkUpRight1_10
+  - first:
+      213: -327519486948214900
+    second: Player_Hazmat_WalkUpRight1_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a2dba47b35e510800000000000000
+      internalID: 1577732616748181704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 96
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92867293e88cfa80800000000000000
+      internalID: -8431713891348217189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 109
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a8f70f7702d320800000000000000
+      internalID: 2581133778612691028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 109
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2973fd9d1e30dc0800000000000000
+      internalID: -3673844545135078744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c16ba02307d0c70800000000000000
+      internalID: 8938924195630685307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8d179041c6d9c0800000000000000
+      internalID: -3902719543912591965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed274ade2503e75c0800000000000000
+      internalID: -4215879068439776546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4f5c4f3fa1fc30800000000000000
+      internalID: 4391483798062059376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab69ef7740f689500800000000000000
+      internalID: 403194231633385146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059ab73b04d90430800000000000000
+      internalID: 3749761309407352075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01c69e5e93d4870800000000000000
+      internalID: 8668648517384540395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_WalkUpRight1_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87fe6b03ca647bf0800000000000000
+      internalID: -327519486948214900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Hazmat_WalkUpRight1_0: 1577732616748181704
+      Player_Hazmat_WalkUpRight1_1: -8431713891348217189
+      Player_Hazmat_WalkUpRight1_10: 8668648517384540395
+      Player_Hazmat_WalkUpRight1_11: -327519486948214900
+      Player_Hazmat_WalkUpRight1_2: 2581133778612691028
+      Player_Hazmat_WalkUpRight1_3: -3673844545135078744
+      Player_Hazmat_WalkUpRight1_4: 8938924195630685307
+      Player_Hazmat_WalkUpRight1_5: -3902719543912591965
+      Player_Hazmat_WalkUpRight1_6: -4215879068439776546
+      Player_Hazmat_WalkUpRight1_7: 4391483798062059376
+      Player_Hazmat_WalkUpRight1_8: 403194231633385146
+      Player_Hazmat_WalkUpRight1_9: 3749761309407352075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 726588e377c1de546835265ba890e712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 368065457768492165
+    second: Enemy_CarapaceCrab_04_0
+  - first:
+      213: 120626437865560350
+    second: Enemy_CarapaceCrab_04_1
+  - first:
+      213: -6586291677621129582
+    second: Enemy_CarapaceCrab_04_2
+  - first:
+      213: 8792563578216968775
+    second: Enemy_CarapaceCrab_04_3
+  - first:
+      213: -7149273312362687600
+    second: Enemy_CarapaceCrab_04_4
+  - first:
+      213: 4940234547390871893
+    second: Enemy_CarapaceCrab_04_5
+  - first:
+      213: 3776006172414224725
+    second: Enemy_CarapaceCrab_04_6
+  - first:
+      213: -5578810794463599312
+    second: Enemy_CarapaceCrab_04_7
+  - first:
+      213: -1390506374800230483
+    second: Enemy_CarapaceCrab_04_8
+  - first:
+      213: 8576555380953836936
+    second: Enemy_CarapaceCrab_04_9
+  - first:
+      213: 5923432041603331923
+    second: Enemy_CarapaceCrab_04_10
+  - first:
+      213: -5901790116617261581
+    second: Enemy_CarapaceCrab_04_11
+  - first:
+      213: -3971149246562400575
+    second: Enemy_CarapaceCrab_04_12
+  - first:
+      213: 6939785487665233887
+    second: Enemy_CarapaceCrab_04_13
+  - first:
+      213: -6215719508904530145
+    second: Enemy_CarapaceCrab_04_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 86
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce1607591ab1500800000000000000
+      internalID: 368065457768492165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195f7b2b1d8ca100800000000000000
+      internalID: 120626437865560350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee7486d9ac894a0800000000000000
+      internalID: -6586291677621129582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 50
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f8a84df5750a70800000000000000
+      internalID: 8792563578216968775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09311760dcda8cc90800000000000000
+      internalID: -7149273312362687600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597858752d3f8440800000000000000
+      internalID: 4940234547390871893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559ae609b91176430800000000000000
+      internalID: 3776006172414224725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035e1e6e3251492b0800000000000000
+      internalID: -5578810794463599312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7bd10c1dde3bce0800000000000000
+      internalID: -1390506374800230483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de73eadab060770800000000000000
+      internalID: 8576555380953836936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357fee2ee02443250800000000000000
+      internalID: 5923432041603331923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fded107821a81ea0800000000000000
+      internalID: -5901790116617261581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c68690ecc4a3e8c0800000000000000
+      internalID: -3971149246562400575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf72b9e1221f4060800000000000000
+      internalID: 6939785487665233887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_CarapaceCrab_04_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa748f9045db9a0800000000000000
+      internalID: -6215719508904530145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_CarapaceCrab_04_0: 368065457768492165
+      Enemy_CarapaceCrab_04_1: 120626437865560350
+      Enemy_CarapaceCrab_04_10: 5923432041603331923
+      Enemy_CarapaceCrab_04_11: -5901790116617261581
+      Enemy_CarapaceCrab_04_12: -3971149246562400575
+      Enemy_CarapaceCrab_04_13: 6939785487665233887
+      Enemy_CarapaceCrab_04_14: -6215719508904530145
+      Enemy_CarapaceCrab_04_2: -6586291677621129582
+      Enemy_CarapaceCrab_04_3: 8792563578216968775
+      Enemy_CarapaceCrab_04_4: -7149273312362687600
+      Enemy_CarapaceCrab_04_5: 4940234547390871893
+      Enemy_CarapaceCrab_04_6: 3776006172414224725
+      Enemy_CarapaceCrab_04_7: -5578810794463599312
+      Enemy_CarapaceCrab_04_8: -1390506374800230483
+      Enemy_CarapaceCrab_04_9: 8576555380953836936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

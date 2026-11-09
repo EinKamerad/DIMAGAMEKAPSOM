@@ -1,0 +1,49 @@
+{
+  "generator": "SpriteCut Studio",
+  "totalSprites": 6,
+  "format": "PNG",
+  "frames": {
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__01.png": {
+      "index": 0,
+      "x": 10,
+      "y": 7,
+      "width": 665,
+      "height": 243
+    },
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__02.png": {
+      "index": 1,
+      "x": 710,
+      "y": 7,
+      "width": 299,
+      "height": 153
+    },
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__03.png": {
+      "index": 2,
+      "x": 1045,
+      "y": 5,
+      "width": 239,
+      "height": 155
+    },
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__04.png": {
+      "index": 3,
+      "x": 1380,
+      "y": 0,
+      "width": 935,
+      "height": 194
+    },
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__05.png": {
+      "index": 4,
+      "x": 2359,
+      "y": 7,
+      "width": 382,
+      "height": 107
+    },
+    "gemini_generated_image_7jc0tm7jc0tm7jc0__1__06.png": {
+      "index": 5,
+      "x": 66,
+      "y": 269,
+      "width": 2690,
+      "height": 1271
+    }
+  }
+}

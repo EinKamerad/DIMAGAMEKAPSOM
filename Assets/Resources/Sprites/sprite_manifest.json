@@ -1,0 +1,987 @@
+{
+  "totalSprites": 139,
+  "categories": {
+    "Tiles": 9,
+    "Crops": 16,
+    "Structures": 26,
+    "Turrets": 11,
+    "Enemies": 17,
+    "Player": 16,
+    "UI": 44
+  },
+  "sprites": [
+    {
+      "name": "Tile_CavernBorder_01.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_CavernBorder_01",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_FleshSoil_01.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_FleshSoil_01",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_FleshSoil_02.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_FleshSoil_02",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_MossGround_01.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_MossGround_01",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_MossGround_02.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_MossGround_02",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_TilledBed_BoneRich.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_TilledBed_BoneRich",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_TilledBed_Dry.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_TilledBed_Dry",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_TilledBed_MutagenRich.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_TilledBed_MutagenRich",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Tile_TilledBed_Watered.png",
+      "category": "Tiles",
+      "resourcePath": "Sprites/Tiles/Tile_TilledBed_Watered",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_CrimsonPod_Stage0.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_CrimsonPod_Stage0",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_CrimsonPod_Stage1.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_CrimsonPod_Stage1",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_CrimsonPod_Stage2.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_CrimsonPod_Stage2",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_CrimsonPod_Stage3.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_CrimsonPod_Stage3",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_OssuaryRoot_Stage0.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_OssuaryRoot_Stage0",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_OssuaryRoot_Stage1.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_OssuaryRoot_Stage1",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_OssuaryRoot_Stage2.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_OssuaryRoot_Stage2",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_OssuaryRoot_Stage3.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_OssuaryRoot_Stage3",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_PlasmaBulb_Stage0.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_PlasmaBulb_Stage0",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_PlasmaBulb_Stage1.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_PlasmaBulb_Stage1",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_PlasmaBulb_Stage2.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_PlasmaBulb_Stage2",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_PlasmaBulb_Stage3.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_PlasmaBulb_Stage3",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_Sporecap_Stage0.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_Sporecap_Stage0",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_Sporecap_Stage1.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_Sporecap_Stage1",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_Sporecap_Stage2.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_Sporecap_Stage2",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Crop_Sporecap_Stage3.png",
+      "category": "Crops",
+      "resourcePath": "Sprites/Crops/Crop_Sporecap_Stage3",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Building_BioReactor.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Building_BioReactor",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Building_MendTendril.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Building_MendTendril",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Building_MutagenIncubator.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Building_MutagenIncubator",
+      "width": 160,
+      "height": 192
+    },
+    {
+      "name": "Building_SymbioticHarvester.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Building_SymbioticHarvester",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Core_LivingHeart.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Core_LivingHeart",
+      "width": 384,
+      "height": 384
+    },
+    {
+      "name": "Fence_OrganicWood.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Fence_OrganicWood",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Artery_Corner.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Artery_Corner",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Artery_H.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Artery_H",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Artery_T.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Artery_T",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Artery_V.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Artery_V",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Biomass_Corner.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Biomass_Corner",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Biomass_Extractor.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Biomass_Extractor",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Biomass_H.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Biomass_H",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Biomass_T.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Biomass_T",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Biomass_V.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Biomass_V",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Plasma_Corner.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Plasma_Corner",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Plasma_H.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Plasma_H",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Plasma_T.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Plasma_T",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Vein_Plasma_V.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Vein_Plasma_V",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_CornerBL.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_CornerBL",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_CornerBR.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_CornerBR",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_CornerTL.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_CornerTL",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_CornerTR.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_CornerTR",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_Horizontal.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_Horizontal",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_Hub.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_Hub",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Wall_Bone_Vertical.png",
+      "category": "Structures",
+      "resourcePath": "Sprites/Structures/Wall_Bone_Vertical",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Proj_AcidGlob.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Proj_AcidGlob",
+      "width": 128,
+      "height": 64
+    },
+    {
+      "name": "Proj_AcidSplash.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Proj_AcidSplash",
+      "width": 176,
+      "height": 96
+    },
+    {
+      "name": "Proj_BileSlug.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Proj_BileSlug",
+      "width": 96,
+      "height": 48
+    },
+    {
+      "name": "Proj_PlasmaBolt.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Proj_PlasmaBolt",
+      "width": 96,
+      "height": 64
+    },
+    {
+      "name": "Turret_BileCannon_Idle.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_BileCannon_Idle",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_Flytrap_Attack.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_Flytrap_Attack",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_Flytrap_Idle.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_Flytrap_Idle",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_PulseBulb_Active.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_PulseBulb_Active",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_PulseBulb_Idle.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_PulseBulb_Idle",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_SporeFlower_Attack.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_SporeFlower_Attack",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Turret_SporeFlower_Idle.png",
+      "category": "Turrets",
+      "resourcePath": "Sprites/Turrets/Turret_SporeFlower_Idle",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Enemy_BroodAlphaBoss_01.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_BroodAlphaBoss_01",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Enemy_BroodAlphaBoss_02.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_BroodAlphaBoss_02",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Enemy_CarapaceCrab_01.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_01",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_CarapaceCrab_02.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_02",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_CarapaceCrab_03.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_03",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_CarapaceCrab_04.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_04",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_CarapaceCrab_05.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_05",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_CarapaceCrab_06.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_CarapaceCrab_06",
+      "width": 208,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_01.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_01",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_02.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_02",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_03.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_03",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_04.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_04",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_05.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_05",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_06.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_06",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_MantisBug_07.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_MantisBug_07",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "Enemy_SwarmMite_01.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_SwarmMite_01",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Enemy_SwarmMite_02.png",
+      "category": "Enemies",
+      "resourcePath": "Sprites/Enemies/Enemy_SwarmMite_02",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Player_Hazmat_AimRight.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_AimRight",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_AimUpRight.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_AimUpRight",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_IdleDown.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_IdleDown",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_IdleUp.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_IdleUp",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_ShootRight.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_ShootRight",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_ShootUpRight.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_ShootUpRight",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_WalkRight1.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_WalkRight1",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_WalkRight2.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_WalkRight2",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_WalkUpRight1.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_WalkUpRight1",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Player_Hazmat_WalkUpRight2.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Player_Hazmat_WalkUpRight2",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "name": "Portrait_Hazmat_01.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Portrait_Hazmat_01",
+      "width": 240,
+      "height": 288
+    },
+    {
+      "name": "Portrait_Hazmat_02.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/Portrait_Hazmat_02",
+      "width": 240,
+      "height": 288
+    },
+    {
+      "name": "VFX_AcidSpray_01.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/VFX_AcidSpray_01",
+      "width": 208,
+      "height": 112
+    },
+    {
+      "name": "VFX_AcidSpray_02.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/VFX_AcidSpray_02",
+      "width": 208,
+      "height": 112
+    },
+    {
+      "name": "VFX_BioFlame_Burst.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/VFX_BioFlame_Burst",
+      "width": 120,
+      "height": 168
+    },
+    {
+      "name": "VFX_BioFlame_Cone.png",
+      "category": "Player",
+      "resourcePath": "Sprites/Player/VFX_BioFlame_Cone",
+      "width": 288,
+      "height": 168
+    },
+    {
+      "name": "Icon_BioPlasma.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_BioPlasma",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Biomass.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Biomass",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_BoneChitin.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_BoneChitin",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Building_BioReactor.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Building_BioReactor",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Building_Harvester.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Building_Harvester",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Building_Incubator.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Building_Incubator",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Building_MendTendril.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Building_MendTendril",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_CrimsonFlower.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_CrimsonFlower",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Crop_CrimsonPod.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Crop_CrimsonPod",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Crop_OssuaryRoot.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Crop_OssuaryRoot",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Crop_PlasmaBulb.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Crop_PlasmaBulb",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Crop_Sporecap.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Crop_Sporecap",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Fence_Wood.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Fence_Wood",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_MutagenRed.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_MutagenRed",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_PinkPod.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_PinkPod",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_SeedPouch.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_SeedPouch",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_SerumGreen.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_SerumGreen",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Spores.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Spores",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Tool_BioAxe.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Tool_BioAxe",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Tool_BioSprayer.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Tool_BioSprayer",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Tool_Cultivator.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Tool_Cultivator",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Tool_Shovel.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Tool_Shovel",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Turret_BileCannon.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Turret_BileCannon",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Turret_Flytrap.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Turret_Flytrap",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Turret_PulseBulb.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Turret_PulseBulb",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Turret_SporeFlower.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Turret_SporeFlower",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Vein_Artery.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Vein_Artery",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Vein_Biomass.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Vein_Biomass",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Vein_Plasma.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Vein_Plasma",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Icon_Wall_Bone.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Icon_Wall_Bone",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "name": "Screen_DefeatBg.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Screen_DefeatBg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Screen_MainMenuBg.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Screen_MainMenuBg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "Screen_VictoryBg.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/Screen_VictoryBg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "name": "UI_Banner_Alert.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Banner_Alert",
+      "width": 931,
+      "height": 187
+    },
+    {
+      "name": "UI_Banner_Wave.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Banner_Wave",
+      "width": 378,
+      "height": 103
+    },
+    {
+      "name": "UI_Bar_Empty.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Bar_Empty",
+      "width": 91,
+      "height": 43
+    },
+    {
+      "name": "UI_Bar_Green.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Bar_Green",
+      "width": 91,
+      "height": 43
+    },
+    {
+      "name": "UI_Bar_Orange.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Bar_Orange",
+      "width": 91,
+      "height": 43
+    },
+    {
+      "name": "UI_Card_Frame.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Card_Frame",
+      "width": 235,
+      "height": 149
+    },
+    {
+      "name": "UI_Frame_Minimap.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Frame_Minimap",
+      "width": 400,
+      "height": 428
+    },
+    {
+      "name": "UI_Frame_SlotNormal.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Frame_SlotNormal",
+      "width": 172,
+      "height": 168
+    },
+    {
+      "name": "UI_Frame_SlotSelected.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Frame_SlotSelected",
+      "width": 188,
+      "height": 168
+    },
+    {
+      "name": "UI_Panel_GridWindow.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Panel_GridWindow",
+      "width": 668,
+      "height": 408
+    },
+    {
+      "name": "UI_Panel_Hotbar8.png",
+      "category": "UI",
+      "resourcePath": "Sprites/UI/UI_Panel_Hotbar8",
+      "width": 1081,
+      "height": 172
+    }
+  ]
+}

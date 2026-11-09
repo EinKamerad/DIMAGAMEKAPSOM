@@ -1,0 +1,1225 @@
+{
+  "generator": "SpriteCut Studio",
+  "totalSprites": 174,
+  "format": "PNG",
+  "frames": {
+    "gemini_generated_image_9w55jh9w55jh9w55_01.png": {
+      "index": 0,
+      "x": 42,
+      "y": 33,
+      "width": 57,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_02.png": {
+      "index": 1,
+      "x": 101,
+      "y": 44,
+      "width": 29,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_03.png": {
+      "index": 2,
+      "x": 148,
+      "y": 33,
+      "width": 29,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_04.png": {
+      "index": 3,
+      "x": 178,
+      "y": 44,
+      "width": 65,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_05.png": {
+      "index": 4,
+      "x": 243,
+      "y": 44,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_06.png": {
+      "index": 5,
+      "x": 284,
+      "y": 33,
+      "width": 32,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_07.png": {
+      "index": 6,
+      "x": 341,
+      "y": 44,
+      "width": 28,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_08.png": {
+      "index": 7,
+      "x": 382,
+      "y": 33,
+      "width": 35,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_09.png": {
+      "index": 8,
+      "x": 416,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_10.png": {
+      "index": 9,
+      "x": 446,
+      "y": 44,
+      "width": 20,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_11.png": {
+      "index": 10,
+      "x": 478,
+      "y": 44,
+      "width": 28,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_12.png": {
+      "index": 11,
+      "x": 505,
+      "y": 35,
+      "width": 22,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_13.png": {
+      "index": 12,
+      "x": 540,
+      "y": 44,
+      "width": 29,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_14.png": {
+      "index": 13,
+      "x": 571,
+      "y": 44,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_15.png": {
+      "index": 14,
+      "x": 600,
+      "y": 44,
+      "width": 26,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_16.png": {
+      "index": 15,
+      "x": 1399,
+      "y": 33,
+      "width": 33,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_17.png": {
+      "index": 16,
+      "x": 1433,
+      "y": 44,
+      "width": 28,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_18.png": {
+      "index": 17,
+      "x": 1460,
+      "y": 33,
+      "width": 50,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_19.png": {
+      "index": 18,
+      "x": 1511,
+      "y": 44,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_20.png": {
+      "index": 19,
+      "x": 1540,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_21.png": {
+      "index": 20,
+      "x": 1567,
+      "y": 44,
+      "width": 29,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_22.png": {
+      "index": 21,
+      "x": 1611,
+      "y": 33,
+      "width": 32,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_23.png": {
+      "index": 22,
+      "x": 1647,
+      "y": 44,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_24.png": {
+      "index": 23,
+      "x": 1687,
+      "y": 35,
+      "width": 22,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_25.png": {
+      "index": 24,
+      "x": 1708,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_26.png": {
+      "index": 25,
+      "x": 1748,
+      "y": 33,
+      "width": 38,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_27.png": {
+      "index": 26,
+      "x": 1799,
+      "y": 33,
+      "width": 32,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_28.png": {
+      "index": 27,
+      "x": 1830,
+      "y": 35,
+      "width": 22,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_29.png": {
+      "index": 28,
+      "x": 1853,
+      "y": 44,
+      "width": 20,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_30.png": {
+      "index": 29,
+      "x": 1873,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_31.png": {
+      "index": 30,
+      "x": 1902,
+      "y": 35,
+      "width": 49,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_32.png": {
+      "index": 31,
+      "x": 1952,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_33.png": {
+      "index": 32,
+      "x": 1983,
+      "y": 44,
+      "width": 20,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_34.png": {
+      "index": 33,
+      "x": 2002,
+      "y": 44,
+      "width": 29,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_35.png": {
+      "index": 34,
+      "x": 2030,
+      "y": 44,
+      "width": 27,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_36.png": {
+      "index": 35,
+      "x": 574,
+      "y": 117,
+      "width": 168,
+      "height": 114
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_37.png": {
+      "index": 36,
+      "x": 757,
+      "y": 133,
+      "width": 121,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_38.png": {
+      "index": 37,
+      "x": 894,
+      "y": 117,
+      "width": 170,
+      "height": 115
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_39.png": {
+      "index": 38,
+      "x": 1222,
+      "y": 117,
+      "width": 108,
+      "height": 114
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_40.png": {
+      "index": 39,
+      "x": 2095,
+      "y": 94,
+      "width": 158,
+      "height": 183
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_41.png": {
+      "index": 40,
+      "x": 2317,
+      "y": 86,
+      "width": 144,
+      "height": 186
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_42.png": {
+      "index": 41,
+      "x": 2464,
+      "y": 152,
+      "width": 25,
+      "height": 23
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_43.png": {
+      "index": 42,
+      "x": 2496,
+      "y": 161,
+      "width": 14,
+      "height": 15
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_44.png": {
+      "index": 43,
+      "x": 2585,
+      "y": 190,
+      "width": 112,
+      "height": 48
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_45.png": {
+      "index": 44,
+      "x": 45,
+      "y": 105,
+      "width": 283,
+      "height": 329
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_46.png": {
+      "index": 45,
+      "x": 367,
+      "y": 105,
+      "width": 173,
+      "height": 329
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_47.png": {
+      "index": 46,
+      "x": 625,
+      "y": 245,
+      "width": 64,
+      "height": 104
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_48.png": {
+      "index": 47,
+      "x": 756,
+      "y": 246,
+      "width": 117,
+      "height": 103
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_49.png": {
+      "index": 48,
+      "x": 949,
+      "y": 245,
+      "width": 116,
+      "height": 104
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_50.png": {
+      "index": 49,
+      "x": 1078,
+      "y": 117,
+      "width": 134,
+      "height": 341
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_51.png": {
+      "index": 50,
+      "x": 1273,
+      "y": 245,
+      "width": 64,
+      "height": 104
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_52.png": {
+      "index": 51,
+      "x": 1402,
+      "y": 100,
+      "width": 344,
+      "height": 413
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_53.png": {
+      "index": 52,
+      "x": 1756,
+      "y": 99,
+      "width": 134,
+      "height": 442
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_54.png": {
+      "index": 53,
+      "x": 1900,
+      "y": 100,
+      "width": 112,
+      "height": 535
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_55.png": {
+      "index": 54,
+      "x": 2085,
+      "y": 289,
+      "width": 151,
+      "height": 177
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_56.png": {
+      "index": 55,
+      "x": 2318,
+      "y": 298,
+      "width": 138,
+      "height": 166
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_57.png": {
+      "index": 56,
+      "x": 2509,
+      "y": 371,
+      "width": 38,
+      "height": 31
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_58.png": {
+      "index": 57,
+      "x": 574,
+      "y": 396,
+      "width": 116,
+      "height": 114
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_59.png": {
+      "index": 58,
+      "x": 758,
+      "y": 391,
+      "width": 119,
+      "height": 119
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_60.png": {
+      "index": 59,
+      "x": 894,
+      "y": 396,
+      "width": 49,
+      "height": 63
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_61.png": {
+      "index": 60,
+      "x": 943,
+      "y": 388,
+      "width": 121,
+      "height": 122
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_62.png": {
+      "index": 61,
+      "x": 1226,
+      "y": 378,
+      "width": 120,
+      "height": 132
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_63.png": {
+      "index": 62,
+      "x": 2546,
+      "y": 378,
+      "width": 128,
+      "height": 79
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_64.png": {
+      "index": 63,
+      "x": 45,
+      "y": 450,
+      "width": 283,
+      "height": 286
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_65.png": {
+      "index": 64,
+      "x": 367,
+      "y": 450,
+      "width": 173,
+      "height": 285
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_66.png": {
+      "index": 65,
+      "x": 573,
+      "y": 548,
+      "width": 756,
+      "height": 18
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_67.png": {
+      "index": 66,
+      "x": 573,
+      "y": 565,
+      "width": 756,
+      "height": 54
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_68.png": {
+      "index": 67,
+      "x": 2098,
+      "y": 487,
+      "width": 136,
+      "height": 180
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_69.png": {
+      "index": 68,
+      "x": 2319,
+      "y": 486,
+      "width": 132,
+      "height": 180
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_70.png": {
+      "index": 69,
+      "x": 2475,
+      "y": 563,
+      "width": 19,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_71.png": {
+      "index": 70,
+      "x": 2504,
+      "y": 551,
+      "width": 87,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_72.png": {
+      "index": 71,
+      "x": 573,
+      "y": 643,
+      "width": 756,
+      "height": 18
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_73.png": {
+      "index": 72,
+      "x": 574,
+      "y": 618,
+      "width": 755,
+      "height": 18
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_74.png": {
+      "index": 73,
+      "x": 573,
+      "y": 660,
+      "width": 756,
+      "height": 54
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_75.png": {
+      "index": 74,
+      "x": 1404,
+      "y": 553,
+      "width": 338,
+      "height": 275
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_76.png": {
+      "index": 75,
+      "x": 1756,
+      "y": 558,
+      "width": 134,
+      "height": 175
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_77.png": {
+      "index": 76,
+      "x": 574,
+      "y": 714,
+      "width": 755,
+      "height": 18
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_78.png": {
+      "index": 77,
+      "x": 1905,
+      "y": 659,
+      "width": 108,
+      "height": 168
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_79.png": {
+      "index": 78,
+      "x": 46,
+      "y": 776,
+      "width": 30,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_80.png": {
+      "index": 79,
+      "x": 77,
+      "y": 787,
+      "width": 28,
+      "height": 32
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_81.png": {
+      "index": 80,
+      "x": 106,
+      "y": 787,
+      "width": 29,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_82.png": {
+      "index": 81,
+      "x": 137,
+      "y": 787,
+      "width": 42,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_83.png": {
+      "index": 82,
+      "x": 193,
+      "y": 787,
+      "width": 30,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_84.png": {
+      "index": 83,
+      "x": 222,
+      "y": 787,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_85.png": {
+      "index": 84,
+      "x": 262,
+      "y": 776,
+      "width": 39,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_86.png": {
+      "index": 85,
+      "x": 314,
+      "y": 777,
+      "width": 42,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_87.png": {
+      "index": 86,
+      "x": 358,
+      "y": 787,
+      "width": 30,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_88.png": {
+      "index": 87,
+      "x": 390,
+      "y": 787,
+      "width": 28,
+      "height": 32
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_89.png": {
+      "index": 88,
+      "x": 418,
+      "y": 778,
+      "width": 48,
+      "height": 42
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_90.png": {
+      "index": 89,
+      "x": 465,
+      "y": 787,
+      "width": 29,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_91.png": {
+      "index": 90,
+      "x": 496,
+      "y": 786,
+      "width": 19,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_92.png": {
+      "index": 91,
+      "x": 514,
+      "y": 787,
+      "width": 27,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_93.png": {
+      "index": 92,
+      "x": 1756,
+      "y": 749,
+      "width": 134,
+      "height": 84
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_94.png": {
+      "index": 93,
+      "x": 2087,
+      "y": 695,
+      "width": 158,
+      "height": 162
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_95.png": {
+      "index": 94,
+      "x": 2337,
+      "y": 703,
+      "width": 124,
+      "height": 156
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_96.png": {
+      "index": 95,
+      "x": 2562,
+      "y": 752,
+      "width": 73,
+      "height": 32
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_97.png": {
+      "index": 96,
+      "x": 80,
+      "y": 869,
+      "width": 30,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_98.png": {
+      "index": 97,
+      "x": 257,
+      "y": 869,
+      "width": 28,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_99.png": {
+      "index": 98,
+      "x": 430,
+      "y": 876,
+      "width": 31,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_100.png": {
+      "index": 99,
+      "x": 460,
+      "y": 853,
+      "width": 22,
+      "height": 16
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_101.png": {
+      "index": 100,
+      "x": 605,
+      "y": 869,
+      "width": 75,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_102.png": {
+      "index": 101,
+      "x": 787,
+      "y": 890,
+      "width": 64,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_103.png": {
+      "index": 102,
+      "x": 981,
+      "y": 890,
+      "width": 31,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_104.png": {
+      "index": 103,
+      "x": 1469,
+      "y": 895,
+      "width": 45,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_105.png": {
+      "index": 104,
+      "x": 1671,
+      "y": 901,
+      "width": 38,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_106.png": {
+      "index": 105,
+      "x": 1873,
+      "y": 901,
+      "width": 46,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_107.png": {
+      "index": 106,
+      "x": 2145,
+      "y": 895,
+      "width": 42,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_108.png": {
+      "index": 107,
+      "x": 2353,
+      "y": 895,
+      "width": 43,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_109.png": {
+      "index": 108,
+      "x": 2556,
+      "y": 895,
+      "width": 40,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_110.png": {
+      "index": 109,
+      "x": 54,
+      "y": 906,
+      "width": 144,
+      "height": 141
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_111.png": {
+      "index": 110,
+      "x": 237,
+      "y": 908,
+      "width": 131,
+      "height": 142
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_112.png": {
+      "index": 111,
+      "x": 405,
+      "y": 932,
+      "width": 139,
+      "height": 117
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_113.png": {
+      "index": 112,
+      "x": 592,
+      "y": 908,
+      "width": 137,
+      "height": 141
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_114.png": {
+      "index": 113,
+      "x": 758,
+      "y": 941,
+      "width": 149,
+      "height": 108
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_115.png": {
+      "index": 114,
+      "x": 948,
+      "y": 924,
+      "width": 152,
+      "height": 126
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_116.png": {
+      "index": 115,
+      "x": 1142,
+      "y": 925,
+      "width": 144,
+      "height": 124
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_117.png": {
+      "index": 116,
+      "x": 1405,
+      "y": 949,
+      "width": 187,
+      "height": 138
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_118.png": {
+      "index": 117,
+      "x": 1630,
+      "y": 946,
+      "width": 159,
+      "height": 141
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_119.png": {
+      "index": 118,
+      "x": 1836,
+      "y": 949,
+      "width": 157,
+      "height": 140
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_120.png": {
+      "index": 119,
+      "x": 2083,
+      "y": 963,
+      "width": 196,
+      "height": 123
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_121.png": {
+      "index": 120,
+      "x": 2314,
+      "y": 943,
+      "width": 163,
+      "height": 144
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_122.png": {
+      "index": 121,
+      "x": 2520,
+      "y": 946,
+      "width": 162,
+      "height": 140
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_123.png": {
+      "index": 122,
+      "x": 47,
+      "y": 1075,
+      "width": 41,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_124.png": {
+      "index": 123,
+      "x": 90,
+      "y": 1085,
+      "width": 28,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_125.png": {
+      "index": 124,
+      "x": 133,
+      "y": 1085,
+      "width": 28,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_126.png": {
+      "index": 125,
+      "x": 175,
+      "y": 1074,
+      "width": 35,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_127.png": {
+      "index": 126,
+      "x": 212,
+      "y": 1075,
+      "width": 28,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_128.png": {
+      "index": 127,
+      "x": 241,
+      "y": 1085,
+      "width": 28,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_129.png": {
+      "index": 128,
+      "x": 271,
+      "y": 1085,
+      "width": 46,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_130.png": {
+      "index": 129,
+      "x": 319,
+      "y": 1077,
+      "width": 49,
+      "height": 41
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_131.png": {
+      "index": 130,
+      "x": 367,
+      "y": 1085,
+      "width": 29,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_132.png": {
+      "index": 131,
+      "x": 398,
+      "y": 1085,
+      "width": 20,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_133.png": {
+      "index": 132,
+      "x": 1212,
+      "y": 1174,
+      "width": 14,
+      "height": 15
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_134.png": {
+      "index": 133,
+      "x": 2369,
+      "y": 1129,
+      "width": 32,
+      "height": 44
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_135.png": {
+      "index": 134,
+      "x": 2430,
+      "y": 1128,
+      "width": 40,
+      "height": 45
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_136.png": {
+      "index": 135,
+      "x": 2493,
+      "y": 1131,
+      "width": 22,
+      "height": 42
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_137.png": {
+      "index": 136,
+      "x": 2514,
+      "y": 1140,
+      "width": 29,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_138.png": {
+      "index": 137,
+      "x": 2545,
+      "y": 1139,
+      "width": 42,
+      "height": 34
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_139.png": {
+      "index": 138,
+      "x": 2588,
+      "y": 1140,
+      "width": 28,
+      "height": 33
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_140.png": {
+      "index": 139,
+      "x": 72,
+      "y": 1141,
+      "width": 99,
+      "height": 167
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_141.png": {
+      "index": 140,
+      "x": 220,
+      "y": 1140,
+      "width": 134,
+      "height": 165
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_142.png": {
+      "index": 141,
+      "x": 424,
+      "y": 1141,
+      "width": 135,
+      "height": 161
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_143.png": {
+      "index": 142,
+      "x": 602,
+      "y": 1132,
+      "width": 119,
+      "height": 179
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_144.png": {
+      "index": 143,
+      "x": 775,
+      "y": 1142,
+      "width": 142,
+      "height": 164
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_145.png": {
+      "index": 144,
+      "x": 944,
+      "y": 1177,
+      "width": 192,
+      "height": 105
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_146.png": {
+      "index": 145,
+      "x": 1198,
+      "y": 1189,
+      "width": 61,
+      "height": 82
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_147.png": {
+      "index": 146,
+      "x": 1867,
+      "y": 1152,
+      "width": 273,
+      "height": 157
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_148.png": {
+      "index": 147,
+      "x": 2301,
+      "y": 1198,
+      "width": 70,
+      "height": 74
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_149.png": {
+      "index": 148,
+      "x": 2403,
+      "y": 1223,
+      "width": 80,
+      "height": 46
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_150.png": {
+      "index": 149,
+      "x": 2422,
+      "y": 1201,
+      "width": 26,
+      "height": 22
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_151.png": {
+      "index": 150,
+      "x": 2450,
+      "y": 1209,
+      "width": 15,
+      "height": 14
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_152.png": {
+      "index": 151,
+      "x": 1833,
+      "y": 1263,
+      "width": 25,
+      "height": 21
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_153.png": {
+      "index": 152,
+      "x": 2510,
+      "y": 1197,
+      "width": 75,
+      "height": 80
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_154.png": {
+      "index": 153,
+      "x": 2630,
+      "y": 1200,
+      "width": 49,
+      "height": 73
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_155.png": {
+      "index": 154,
+      "x": 1448,
+      "y": 1175,
+      "width": 148,
+      "height": 275
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_156.png": {
+      "index": 155,
+      "x": 1638,
+      "y": 1174,
+      "width": 194,
+      "height": 275
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_157.png": {
+      "index": 156,
+      "x": 1595,
+      "y": 1349,
+      "width": 25,
+      "height": 21
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_158.png": {
+      "index": 157,
+      "x": 2300,
+      "y": 1294,
+      "width": 76,
+      "height": 74
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_159.png": {
+      "index": 158,
+      "x": 2397,
+      "y": 1306,
+      "width": 91,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_160.png": {
+      "index": 159,
+      "x": 2503,
+      "y": 1306,
+      "width": 91,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_161.png": {
+      "index": 160,
+      "x": 2609,
+      "y": 1306,
+      "width": 91,
+      "height": 43
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_162.png": {
+      "index": 161,
+      "x": 72,
+      "y": 1387,
+      "width": 19,
+      "height": 51
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_163.png": {
+      "index": 162,
+      "x": 90,
+      "y": 1334,
+      "width": 82,
+      "height": 171
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_164.png": {
+      "index": 163,
+      "x": 236,
+      "y": 1334,
+      "width": 145,
+      "height": 171
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_165.png": {
+      "index": 164,
+      "x": 422,
+      "y": 1338,
+      "width": 131,
+      "height": 168
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_166.png": {
+      "index": 165,
+      "x": 598,
+      "y": 1337,
+      "width": 117,
+      "height": 168
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_167.png": {
+      "index": 166,
+      "x": 773,
+      "y": 1328,
+      "width": 142,
+      "height": 178
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_168.png": {
+      "index": 167,
+      "x": 938,
+      "y": 1354,
+      "width": 199,
+      "height": 105
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_169.png": {
+      "index": 168,
+      "x": 1200,
+      "y": 1367,
+      "width": 64,
+      "height": 86
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_170.png": {
+      "index": 169,
+      "x": 1960,
+      "y": 1338,
+      "width": 107,
+      "height": 157
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_171.png": {
+      "index": 170,
+      "x": 2301,
+      "y": 1393,
+      "width": 69,
+      "height": 93
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_172.png": {
+      "index": 171,
+      "x": 2405,
+      "y": 1393,
+      "width": 72,
+      "height": 96
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_173.png": {
+      "index": 172,
+      "x": 2503,
+      "y": 1396,
+      "width": 91,
+      "height": 87
+    },
+    "gemini_generated_image_9w55jh9w55jh9w55_174.png": {
+      "index": 173,
+      "x": 2607,
+      "y": 1393,
+      "width": 93,
+      "height": 92
+    }
+  }
+}

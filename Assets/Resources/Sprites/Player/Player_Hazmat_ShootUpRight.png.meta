@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 79ab31d9636a4c942b0e1a236c637e01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6284246236877996127
+    second: Player_Hazmat_ShootUpRight_0
+  - first:
+      213: -1339224558659329857
+    second: Player_Hazmat_ShootUpRight_1
+  - first:
+      213: -1339841420240390720
+    second: Player_Hazmat_ShootUpRight_2
+  - first:
+      213: -2380641130245301435
+    second: Player_Hazmat_ShootUpRight_3
+  - first:
+      213: -4600849919303360015
+    second: Player_Hazmat_ShootUpRight_4
+  - first:
+      213: 8612057027190112325
+    second: Player_Hazmat_ShootUpRight_5
+  - first:
+      213: -7998294197185944640
+    second: Player_Hazmat_ShootUpRight_6
+  - first:
+      213: 8225629411255684262
+    second: Player_Hazmat_ShootUpRight_7
+  - first:
+      213: -5186239849597087862
+    second: Player_Hazmat_ShootUpRight_8
+  - first:
+      213: 6304785649525904394
+    second: Player_Hazmat_ShootUpRight_9
+  - first:
+      213: 7259053899474838268
+    second: Player_Hazmat_ShootUpRight_10
+  - first:
+      213: -8675004216697445207
+    second: Player_Hazmat_ShootUpRight_11
+  - first:
+      213: -484444191585836543
+    second: Player_Hazmat_ShootUpRight_12
+  - first:
+      213: -1175553376412107077
+    second: Player_Hazmat_ShootUpRight_13
+  - first:
+      213: 7873545565193593538
+    second: Player_Hazmat_ShootUpRight_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c23638a0263750800000000000000
+      internalID: 6284246236877996127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0a1a20c5e1a6de0800000000000000
+      internalID: -1339224558659329857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5773bb35de76de0800000000000000
+      internalID: -1339841420240390720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b5b06518346fed0800000000000000
+      internalID: -2380641130245301435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e90fef5f7620c0800000000000000
+      internalID: -4600849919303360015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c213dc3c248770800000000000000
+      internalID: 8612057027190112325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3e9afedc9500190800000000000000
+      internalID: -7998294197185944640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 114
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac86e74e5e472270800000000000000
+      internalID: 8225629411255684262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4acca556c608b0800000000000000
+      internalID: -5186239849597087862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d8f0e4291f7750800000000000000
+      internalID: 6304785649525904394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 92
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ac9bbf075db460800000000000000
+      internalID: 7259053899474838268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 64
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4abb680a13c9780800000000000000
+      internalID: -8675004216697445207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102660f0398e649f0800000000000000
+      internalID: -484444191585836543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef178be689fafe0800000000000000
+      internalID: -1175553376412107077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Hazmat_ShootUpRight_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 23
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c26738c9f3744d60800000000000000
+      internalID: 7873545565193593538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Hazmat_ShootUpRight_0: 6284246236877996127
+      Player_Hazmat_ShootUpRight_1: -1339224558659329857
+      Player_Hazmat_ShootUpRight_10: 7259053899474838268
+      Player_Hazmat_ShootUpRight_11: -8675004216697445207
+      Player_Hazmat_ShootUpRight_12: -484444191585836543
+      Player_Hazmat_ShootUpRight_13: -1175553376412107077
+      Player_Hazmat_ShootUpRight_14: 7873545565193593538
+      Player_Hazmat_ShootUpRight_2: -1339841420240390720
+      Player_Hazmat_ShootUpRight_3: -2380641130245301435
+      Player_Hazmat_ShootUpRight_4: -4600849919303360015
+      Player_Hazmat_ShootUpRight_5: 8612057027190112325
+      Player_Hazmat_ShootUpRight_6: -7998294197185944640
+      Player_Hazmat_ShootUpRight_7: 8225629411255684262
+      Player_Hazmat_ShootUpRight_8: -5186239849597087862
+      Player_Hazmat_ShootUpRight_9: 6304785649525904394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

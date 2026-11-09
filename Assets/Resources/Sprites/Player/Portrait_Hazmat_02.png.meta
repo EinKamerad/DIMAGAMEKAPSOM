@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: ef3699ce0ab524f4c836760e407f28a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4130037038524349060
+    second: Portrait_Hazmat_02_0
+  - first:
+      213: 3083501078081585639
+    second: Portrait_Hazmat_02_1
+  - first:
+      213: -7297968749943664583
+    second: Portrait_Hazmat_02_2
+  - first:
+      213: 4161205894175315790
+    second: Portrait_Hazmat_02_3
+  - first:
+      213: 9086233506757664807
+    second: Portrait_Hazmat_02_4
+  - first:
+      213: 2421642192886766228
+    second: Portrait_Hazmat_02_5
+  - first:
+      213: 4245604980395013751
+    second: Portrait_Hazmat_02_6
+  - first:
+      213: 946660618135733656
+    second: Portrait_Hazmat_02_7
+  - first:
+      213: 5237993123893645710
+    second: Portrait_Hazmat_02_8
+  - first:
+      213: -4670754974633776027
+    second: Portrait_Hazmat_02_9
+  - first:
+      213: 7915563594698990170
+    second: Portrait_Hazmat_02_10
+  - first:
+      213: -7347005802136334221
+    second: Portrait_Hazmat_02_11
+  - first:
+      213: -5547661974780880108
+    second: Portrait_Hazmat_02_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 149
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a337efdc6d05930800000000000000
+      internalID: 4130037038524349060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 87
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e14697b4ebcaca20800000000000000
+      internalID: 3083501078081585639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 163
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d4b5961868ba90800000000000000
+      internalID: -7297968749943664583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 184
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d497b6b29fb930800000000000000
+      internalID: 4161205894175315790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 170
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ea84cb39c81e70800000000000000
+      internalID: 9086233506757664807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 135
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1d187eb66b9120800000000000000
+      internalID: 2421642192886766228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f2194c3b6bea30800000000000000
+      internalID: 4245604980395013751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 153
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89505da01d6332d00800000000000000
+      internalID: 946660618135733656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819e9d7ef611b840800000000000000
+      internalID: 5237993123893645710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 106
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca018e8152e2fb0800000000000000
+      internalID: -4670754974633776027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 37
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a522c03a62bb9dd60800000000000000
+      internalID: 7915563594698990170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701ee826213a0a90800000000000000
+      internalID: -7347005802136334221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait_Hazmat_02_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 15
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5e33a3deb203b0800000000000000
+      internalID: -5547661974780880108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Portrait_Hazmat_02_0: 4130037038524349060
+      Portrait_Hazmat_02_1: 3083501078081585639
+      Portrait_Hazmat_02_10: 7915563594698990170
+      Portrait_Hazmat_02_11: -7347005802136334221
+      Portrait_Hazmat_02_12: -5547661974780880108
+      Portrait_Hazmat_02_2: -7297968749943664583
+      Portrait_Hazmat_02_3: 4161205894175315790
+      Portrait_Hazmat_02_4: 9086233506757664807
+      Portrait_Hazmat_02_5: 2421642192886766228
+      Portrait_Hazmat_02_6: 4245604980395013751
+      Portrait_Hazmat_02_7: 946660618135733656
+      Portrait_Hazmat_02_8: 5237993123893645710
+      Portrait_Hazmat_02_9: -4670754974633776027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

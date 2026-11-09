@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: f6673d7bdc2426c4dbdbd3ad3ae2f539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8941238638211578625
+    second: Crop_PlasmaBulb_Stage0_0
+  - first:
+      213: 3483278185700687749
+    second: Crop_PlasmaBulb_Stage0_1
+  - first:
+      213: 9067166596887475626
+    second: Crop_PlasmaBulb_Stage0_2
+  - first:
+      213: -5416543178782069765
+    second: Crop_PlasmaBulb_Stage0_3
+  - first:
+      213: 2176176678708427107
+    second: Crop_PlasmaBulb_Stage0_4
+  - first:
+      213: -5578126860798801975
+    second: Crop_PlasmaBulb_Stage0_5
+  - first:
+      213: -7735738130139739497
+    second: Crop_PlasmaBulb_Stage0_6
+  - first:
+      213: -1697074101152835972
+    second: Crop_PlasmaBulb_Stage0_7
+  - first:
+      213: 9105003747875118445
+    second: Crop_PlasmaBulb_Stage0_8
+  - first:
+      213: 9163229178676178344
+    second: Crop_PlasmaBulb_Stage0_9
+  - first:
+      213: -71783082838895624
+    second: Crop_PlasmaBulb_Stage0_10
+  - first:
+      213: 2470962236668484844
+    second: Crop_PlasmaBulb_Stage0_11
+  - first:
+      213: -45981321016710324
+    second: Crop_PlasmaBulb_Stage0_12
+  - first:
+      213: 4090547890574123928
+    second: Crop_PlasmaBulb_Stage0_13
+  - first:
+      213: -1779463571672454741
+    second: Crop_PlasmaBulb_Stage0_14
+  - first:
+      213: -7308213561078900876
+    second: Crop_PlasmaBulb_Stage0_15
+  - first:
+      213: 1524023043786454195
+    second: Crop_PlasmaBulb_Stage0_16
+  - first:
+      213: -8772127451787914195
+    second: Crop_PlasmaBulb_Stage0_17
+  - first:
+      213: 4788517179825854380
+    second: Crop_PlasmaBulb_Stage0_18
+  - first:
+      213: -5091417763104509294
+    second: Crop_PlasmaBulb_Stage0_19
+  - first:
+      213: -6805029176510032309
+    second: Crop_PlasmaBulb_Stage0_20
+  - first:
+      213: 657082937474749625
+    second: Crop_PlasmaBulb_Stage0_21
+  - first:
+      213: 2583910246473083978
+    second: Crop_PlasmaBulb_Stage0_22
+  - first:
+      213: -359351594135992716
+    second: Crop_PlasmaBulb_Stage0_23
+  - first:
+      213: -8102024850450129722
+    second: Crop_PlasmaBulb_Stage0_24
+  - first:
+      213: -7562308136257768597
+    second: Crop_PlasmaBulb_Stage0_25
+  - first:
+      213: -2725956106212332179
+    second: Crop_PlasmaBulb_Stage0_26
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 94
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b39923b29a51c70800000000000000
+      internalID: 8941238638211578625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7e800e07175030800000000000000
+      internalID: 3483278185700687749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f3cedafb05dd70800000000000000
+      internalID: 9067166596887475626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 93
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb212e4da294d4b0800000000000000
+      internalID: -5416543178782069765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b7eec825533e10800000000000000
+      internalID: 2176176678708427107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7c50e9c238692b0800000000000000
+      internalID: -5578126860798801975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8395082325a490800000000000000
+      internalID: -7735738130139739497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c761543b818c278e0800000000000000
+      internalID: -1697074101152835972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d52b61ba87b5e70800000000000000
+      internalID: 9105003747875118445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adec7e93645a2f70800000000000000
+      internalID: 9163229178676178344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3518e9aa9f00ff0800000000000000
+      internalID: -71783082838895624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9702001f9a4220800000000000000
+      internalID: 2470962236668484844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bee7e6b34ac5ff0800000000000000
+      internalID: -45981321016710324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e46242ab84c830800000000000000
+      internalID: 4090547890574123928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba927bf3f431e47e0800000000000000
+      internalID: -1779463571672454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477133d9c72049a90800000000000000
+      internalID: -7308213561078900876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b66a32ea662510800000000000000
+      internalID: 1524023043786454195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249abf2f84234680800000000000000
+      internalID: -8772127451787914195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca71060210b347240800000000000000
+      internalID: 4788517179825854380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ba0b1586a759b0800000000000000
+      internalID: -5091417763104509294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 42
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4653ffb40eaf81a0800000000000000
+      internalID: -6805029176510032309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41724437d6e1900800000000000000
+      internalID: 657082937474749625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2584dda4ebd320800000000000000
+      internalID: 2583910246473083978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476cd0a01a3530bf0800000000000000
+      internalID: -359351594135992716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 30
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc588b2353df8f80800000000000000
+      internalID: -8102024850450129722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b633f4021d84d0790800000000000000
+      internalID: -7562308136257768597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crop_PlasmaBulb_Stage0_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d28e73d557b2ad0800000000000000
+      internalID: -2725956106212332179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crop_PlasmaBulb_Stage0_0: 8941238638211578625
+      Crop_PlasmaBulb_Stage0_1: 3483278185700687749
+      Crop_PlasmaBulb_Stage0_10: -71783082838895624
+      Crop_PlasmaBulb_Stage0_11: 2470962236668484844
+      Crop_PlasmaBulb_Stage0_12: -45981321016710324
+      Crop_PlasmaBulb_Stage0_13: 4090547890574123928
+      Crop_PlasmaBulb_Stage0_14: -1779463571672454741
+      Crop_PlasmaBulb_Stage0_15: -7308213561078900876
+      Crop_PlasmaBulb_Stage0_16: 1524023043786454195
+      Crop_PlasmaBulb_Stage0_17: -8772127451787914195
+      Crop_PlasmaBulb_Stage0_18: 4788517179825854380
+      Crop_PlasmaBulb_Stage0_19: -5091417763104509294
+      Crop_PlasmaBulb_Stage0_2: 9067166596887475626
+      Crop_PlasmaBulb_Stage0_20: -6805029176510032309
+      Crop_PlasmaBulb_Stage0_21: 657082937474749625
+      Crop_PlasmaBulb_Stage0_22: 2583910246473083978
+      Crop_PlasmaBulb_Stage0_23: -359351594135992716
+      Crop_PlasmaBulb_Stage0_24: -8102024850450129722
+      Crop_PlasmaBulb_Stage0_25: -7562308136257768597
+      Crop_PlasmaBulb_Stage0_26: -2725956106212332179
+      Crop_PlasmaBulb_Stage0_3: -5416543178782069765
+      Crop_PlasmaBulb_Stage0_4: 2176176678708427107
+      Crop_PlasmaBulb_Stage0_5: -5578126860798801975
+      Crop_PlasmaBulb_Stage0_6: -7735738130139739497
+      Crop_PlasmaBulb_Stage0_7: -1697074101152835972
+      Crop_PlasmaBulb_Stage0_8: 9105003747875118445
+      Crop_PlasmaBulb_Stage0_9: 9163229178676178344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
